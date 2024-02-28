@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "nama": "SMA 1",
+    "nis": "123456789",
+    "alamat": "Jl. In Aja Dulu, Kota Aceh",
+    "email": "yayasan@gmail.com",
+    "kepala": "Bagus",
+    "linked_to": "Yayasan A",
+    "parent": {
+        "id": 1,
+        "nama": "Sekolah Menengah Atas"
+    }
+}

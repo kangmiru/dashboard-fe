@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nama": "Yayasan A",
+        "alamat": "Jl. In Aja Dulu, Kota Aceh",
+        "no_telp": "021 2323 5355",
+        "email": "yayasan@gmail.com",
+        "kepala": "Bagus"
+    },
+    {
+        "id": 2,
+        "nama": "Yayasan B",
+        "alamat": "Jl. In Aja Dulu, Kota Aceh",
+        "no_telp": "021 2323 5355",
+        "email": "yayasan@gmail.com",
+        "kepala": "Rafli"
+    },
+    {
+        "id": 3,
+        "nama": "Yayasan C",
+        "alamat": "Jl. In Aja Dulu, Kota Aceh",
+        "no_telp": "021 2323 5355",
+        "email": "yayasan@gmail.com",
+        "kepala": "Bobby"
+    },
+    {
+        "id": 4,
+        "nama": "Yayasan D",
+        "alamat": "Jl. In Aja Dulu, Kota Aceh",
+        "no_telp": "021 2323 5355",
+        "email": "yayasan@gmail.com",
+        "kepala": "Byu"
+    },
+    {
+        "id": 5,
+        "nama": "Yayasan E",
+        "alamat": "Jl. In Aja Dulu, Kota Aceh",
+        "no_telp": "021 2323 5355",
+        "email": "yayasan@gmail.com",
+        "kepala": "Parto"
+    }
+]

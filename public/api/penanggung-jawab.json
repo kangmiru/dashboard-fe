@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nama": "Agus Budianto",
+        "instansi": "Sekolah",
+        "nama_instansi": "SMA Pembangunan 1",
+        "email": "yayasan@gmail.com",
+        "no_telp": "0856",
+        "linked_to": "Yayasan A"
+    },
+    {
+        "id": 2,
+        "nama": "Farel",
+        "instansi": "Sekolah",
+        "nama_instansi": "SMK Pembangunan",
+        "email": "yayasan@gmail.com",
+        "no_telp": "0856",
+        "linked_to": null
+    },
+    {
+        "id": 3,
+        "nama": "Rumi",
+        "instansi": "Sekolah",
+        "nama_instansi": "SMA Pembangunan 2",
+        "email": "yayasan@gmail.com",
+        "no_telp": "0856",
+        "linked_to": null
+    },
+    {
+        "id": 4,
+        "nama": "al ghazali",
+        "instansi": "Yayasan",
+        "nama_instansi": "SD Bangkit",
+        "email": "yayasan@gmail.com",
+        "no_telp": "0856",
+        "linked_to": null
+    },    
+    {
+        "id": 5,
+        "nama": "jalaluddin",
+        "instansi": "Sekolah",
+        "nama_instansi": "SMP Bangkit",
+        "email": "yayasan@gmail.com",
+        "no_telp": "0856",
+        "linked_to": null
+    },
+    {
+        "id": 6,
+        "nama": "rabiah",
+        "instansi": "Yayasan",
+        "nama_instansi": "SMA Bangkit",
+        "email": "yayasan@gmail.com",
+        "no_telp": "0856",
+        "linked_to": null
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Karyawan",
+        "hadir": 1234,
+        "izin": 567,
+        "alfa": 89,
+        "perc": [1234, 567, 89]
+    },
+    {
+        "nama": "Guru",
+        "hadir": 1234,
+        "izin": 567,
+        "alfa": 89,
+        "perc": [1234, 567, 89]
+    },
+    {
+        "nama": "Siswa",
+        "hadir": 1234,
+        "izin": 567,
+        "alfa": 89,
+        "perc": [1234, 567, 89]
+    }
+]

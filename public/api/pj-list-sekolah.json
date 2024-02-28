@@ -1,0 +1,14 @@
+{
+    "id": 2,
+    "nama": "Sekolah Menengah Atas",
+    "data": [
+        {
+            "id": 1,
+            "nama": "SMA 1"
+        },
+        {
+            "id": 2,
+            "nama": "SMA 2"
+        }
+    ]
+}

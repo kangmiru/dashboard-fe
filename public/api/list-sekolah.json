@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nama": "SD 1 MODO",
+        "kategori": "sd",
+        "npsn": 567829,
+        "alamat": "jalan soekarno hatta no 25",
+        "email": "sekolah@gmail.com",
+        "kepala": "Endin",
+        "linked_to": "Yayasan A"
+    },
+    {
+        "id": 2,
+        "nama": "SMA INPRES KEBANGSAAN JAKARTA",
+        "kategori": "sma",
+        "npsn": 567829,
+        "alamat": "jalan soekarno hatta no 25",
+        "email": "sekolah@gmail.com",
+        "kepala": "pramoedya",
+        "linked_to": null
+    },
+    {
+        "id": 3,
+        "nama": "SMP 2 MODO",
+        "kategori": "smp",
+        "npsn": 567829,
+        "alamat": "jalan soekarno hatta no 25",
+        "email": "sekolah@gmail.com",
+        "kepala": "Endin",
+        "linked_to": null
+    },
+    {
+        "id": 4,
+        "nama": "SMA 1 MODO",
+        "kategori": "sma",
+        "npsn": 567829,
+        "alamat": "jalan soekarno hatta no 25",
+        "email": "sekolah@gmail.com",
+        "kepala": "Endin",
+        "linked_to": null
+    },
+    {
+        "id": 5,
+        "nama": "SMK 4 MODO",
+        "kategori": "smk",
+        "npsn": 567829,
+        "alamat" : "jalan soekarno hatta no 25",
+        "email": "sekolah@gmail.com",
+        "kepala": "Endin",
+        "linked_to": null
+    }
+]

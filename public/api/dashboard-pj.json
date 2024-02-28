@@ -1,0 +1,44 @@
+{
+    "nama": "Yayasan A",
+    "alamat": "Jl. In Aja Dulu, Kota Aceh",
+    "no_telp": "02134567890",
+    "email": "yayasan@gmail.com",
+    "kepala": "Bagus",
+    "data": [
+        {
+            "id": 1,
+            "name": "Sekolah Dasar",
+            "count": 0
+        },
+        {
+            "id": 2,
+            "name": "Sekolah Menengah Pertama",
+            "count": 0
+        },
+        {
+            "id": 3,
+            "name": "Sekolah Menengah Atas",
+            "count": 2
+        },
+        {
+            "id": 4,
+            "name": "Sekolah Menengah Kejuruan",
+            "count": 0
+        },
+        {
+            "id": 5,
+            "name": "Madrasah Ibtidaiyah",
+            "count": 0
+        },
+        {
+            "id": 6,
+            "name": "Madrasah Tsanawiyah",
+            "count": 0
+        },
+        {
+            "id": 7,
+            "name": "Madrasah Aliyah",
+            "count": 0
+        }
+    ]
+}

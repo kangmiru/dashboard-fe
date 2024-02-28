@@ -1,0 +1,31 @@
+{
+    "total_yayasan": 4,
+    "total_sekolah": 5,
+    "total_pj": 5,
+    "statistik_pj": {
+        "bulan": "November",
+        "data": [
+            {
+                "name": "Yayasan",
+                "percentage": 50
+            },
+            {
+                "name": "Sekolah",
+                "percentage": 50
+            }
+        ]
+    },
+    "statistik_ys": {
+        "bulan": "November",
+        "data": [
+            {
+                "name": "Yayasan",
+                "percentage": 75
+            },
+            {
+                "name": "Sekolah",
+                "percentage": 25
+            }
+        ]
+    }
+}
